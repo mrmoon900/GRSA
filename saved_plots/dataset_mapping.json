@@ -1,0 +1,8 @@
+{
+    "dataset_mapping": {
+        "train": "Main Test",
+        "val": "TS1",
+        "test": "TS2",
+        "ts1": "TS3"
+    }
+}
